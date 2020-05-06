@@ -1,0 +1,7 @@
+# please write down all dependencies here
+pip install split-folders 
+pip install git+https://github.com/rcmalli/keras-vggface.git
+pip install face_recognition
+pip install opencv
+pip install dlib
+pip install cmake
