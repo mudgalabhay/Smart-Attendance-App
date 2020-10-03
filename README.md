@@ -9,7 +9,7 @@ To deploy this project on local machine you have to download complete code on yo
 ### Prerequisites
 
 What things you need to install the software and how to install them
-Install all library dependencies from requirements.txt file.
+Install all library dependencies from requirements.txt file..
 
 ```
 Python 3.0 or later
